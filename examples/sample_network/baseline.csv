@@ -1,0 +1,151 @@
+customer_id,dc,mode,share
+C001,Chicago,parcel,1.0
+C002,Chicago,LTL,1.0
+C003,Dallas,LTL,1.0
+C004,Memphis,LTL,1.0
+C005,Dallas,LTL,1.0
+C006,Memphis,truckload,1.0
+C007,Newark,parcel,1.0
+C008,Dallas,parcel,1.0
+C009,Memphis,parcel,1.0
+C010,Atlanta,LTL,1.0
+C011,Chicago,parcel,1.0
+C012,Chicago,truckload,1.0
+C013,Newark,LTL,1.0
+C014,Memphis,parcel,1.0
+C015,Chicago,LTL,1.0
+C016,Memphis,LTL,1.0
+C017,Chicago,LTL,1.0
+C018,Chicago,LTL,1.0
+C019,Memphis,parcel,1.0
+C020,Memphis,LTL,1.0
+C021,Atlanta,LTL,1.0
+C022,Atlanta,LTL,1.0
+C023,Atlanta,LTL,1.0
+C024,Chicago,parcel,1.0
+C025,Memphis,parcel,1.0
+C026,Atlanta,LTL,1.0
+C027,Chicago,LTL,1.0
+C028,Los Angeles,LTL,1.0
+C029,Atlanta,LTL,1.0
+C030,Chicago,parcel,1.0
+C031,Chicago,LTL,1.0
+C032,Memphis,LTL,1.0
+C033,Chicago,truckload,1.0
+C034,Chicago,LTL,1.0
+C035,Dallas,LTL,1.0
+C036,Chicago,parcel,1.0
+C037,Chicago,parcel,1.0
+C038,Memphis,parcel,1.0
+C039,Chicago,parcel,1.0
+C040,Los Angeles,parcel,1.0
+C041,Chicago,parcel,1.0
+C042,Memphis,LTL,1.0
+C043,Memphis,parcel,1.0
+C044,Chicago,LTL,1.0
+C045,Los Angeles,parcel,1.0
+C046,Atlanta,LTL,1.0
+C047,Chicago,LTL,1.0
+C048,Dallas,parcel,1.0
+C049,Chicago,LTL,1.0
+C050,Los Angeles,LTL,1.0
+C051,Chicago,LTL,1.0
+C052,Atlanta,LTL,1.0
+C053,Atlanta,LTL,1.0
+C054,Memphis,parcel,1.0
+C055,Newark,LTL,1.0
+C056,Memphis,parcel,1.0
+C057,Atlanta,LTL,1.0
+C058,Los Angeles,LTL,1.0
+C059,Chicago,truckload,1.0
+C060,Atlanta,parcel,1.0
+C061,Memphis,parcel,1.0
+C062,Memphis,parcel,1.0
+C063,Memphis,parcel,1.0
+C064,Dallas,LTL,1.0
+C065,Chicago,LTL,1.0
+C066,Newark,LTL,1.0
+C067,Dallas,truckload,1.0
+C068,Memphis,LTL,1.0
+C069,Atlanta,parcel,1.0
+C070,Chicago,LTL,1.0
+C071,Memphis,truckload,1.0
+C072,Los Angeles,parcel,1.0
+C073,Chicago,LTL,1.0
+C074,Dallas,LTL,1.0
+C075,Atlanta,LTL,1.0
+C076,Chicago,parcel,1.0
+C077,Dallas,LTL,1.0
+C078,Los Angeles,LTL,1.0
+C079,Memphis,LTL,1.0
+C080,Memphis,truckload,1.0
+C081,Dallas,LTL,1.0
+C082,Memphis,LTL,1.0
+C083,Memphis,LTL,1.0
+C084,Atlanta,LTL,1.0
+C085,Los Angeles,parcel,1.0
+C086,Memphis,LTL,1.0
+C087,Atlanta,LTL,1.0
+C088,Newark,parcel,1.0
+C089,Memphis,LTL,1.0
+C090,Newark,truckload,1.0
+C091,Newark,LTL,1.0
+C092,Atlanta,parcel,1.0
+C093,Memphis,LTL,1.0
+C094,Dallas,LTL,1.0
+C095,Memphis,parcel,1.0
+C096,Atlanta,parcel,1.0
+C097,Chicago,LTL,1.0
+C098,Atlanta,LTL,1.0
+C099,Newark,LTL,1.0
+C100,Memphis,parcel,1.0
+C101,Memphis,parcel,1.0
+C102,Memphis,LTL,1.0
+C103,Dallas,parcel,1.0
+C104,Newark,parcel,1.0
+C105,Chicago,parcel,1.0
+C106,Newark,LTL,1.0
+C107,Memphis,parcel,1.0
+C108,Los Angeles,LTL,1.0
+C109,Chicago,LTL,1.0
+C110,Dallas,parcel,1.0
+C111,Newark,parcel,1.0
+C112,Chicago,LTL,1.0
+C113,Newark,parcel,1.0
+C114,Chicago,parcel,1.0
+C115,Los Angeles,parcel,1.0
+C116,Dallas,parcel,1.0
+C117,Dallas,truckload,1.0
+C118,Los Angeles,parcel,1.0
+C119,Los Angeles,parcel,1.0
+C120,Dallas,LTL,1.0
+C121,Los Angeles,truckload,1.0
+C122,Chicago,parcel,1.0
+C123,Newark,LTL,1.0
+C124,Los Angeles,LTL,1.0
+C125,Dallas,parcel,1.0
+C126,Chicago,LTL,1.0
+C127,Chicago,parcel,1.0
+C128,Los Angeles,truckload,1.0
+C129,Chicago,LTL,1.0
+C130,Memphis,LTL,1.0
+C131,Chicago,LTL,1.0
+C132,Newark,parcel,1.0
+C133,Los Angeles,LTL,1.0
+C134,Newark,LTL,1.0
+C135,Los Angeles,LTL,1.0
+C136,Memphis,LTL,1.0
+C137,Memphis,parcel,1.0
+C138,Memphis,LTL,1.0
+C139,Dallas,LTL,1.0
+C140,Chicago,LTL,1.0
+C141,Los Angeles,parcel,1.0
+C142,Memphis,parcel,1.0
+C143,Newark,LTL,1.0
+C144,Memphis,LTL,1.0
+C145,Newark,LTL,1.0
+C146,Atlanta,LTL,1.0
+C147,Atlanta,truckload,1.0
+C148,Newark,LTL,1.0
+C149,Dallas,LTL,1.0
+C150,Newark,parcel,1.0
