@@ -1,0 +1,7 @@
+dcs_open,status,open,total_cost,freight_cost,handling_cost,fixed_cost,share_within_service,average_transit_days
+1,infeasible,,,,,,,
+2,infeasible,,,,,,,
+3,infeasible,,,,,,,
+4,optimal,"Los Angeles, Dallas, Chicago, Memphis",2645774.680223229,1779140.8571600483,431133.82306318043,435500.0,1.0,2.189675332168788
+5,optimal,"Los Angeles, Dallas, Chicago, Atlanta, Newark",2596061.0613609874,1564602.09924709,465958.9621138972,565500.0,1.0,2.0200123745079783
+6,optimal,"Los Angeles, Dallas, Chicago, Atlanta, Newark, Memphis",2651764.4136366434,1527534.9971284643,454729.4165081794,669500.0,1.0,1.9325261760060284
