@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "supplylens-distribution-optimizer"
+version = "0.1.0"
+description = "Distribution cost optimization: customer-to-DC assignment, mode selection, consolidation and DC open/close decisions, compared with today's allocation."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [{ name = "Md Abdur Rauf" }]
+keywords = ["logistics", "distribution", "network optimization", "freight", "mixed-integer programming", "supply chain"]
+dependencies = ["numpy>=1.24", "pandas>=2.0", "scipy>=1.11"]
+
+[project.optional-dependencies]
+app = ["streamlit>=1.50", "plotly>=5.20"]
+dev = ["pytest>=7"]
+
+[project.scripts]
+distribution-optimizer = "distribution_optimizer.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
